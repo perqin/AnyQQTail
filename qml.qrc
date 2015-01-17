@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main.js</file>
+        <file>Settings.qml</file>
+        <file>SignalCenter.qml</file>
+    </qresource>
+</RCC>
